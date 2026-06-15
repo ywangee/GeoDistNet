@@ -178,12 +178,6 @@ A sample GIS-derived feeder over a basemap:
 
 <img width="400" height="400" alt="GIS-derived feeder example" src="https://github.com/user-attachments/assets/2483ece0-ac41-450a-bf02-89ffa520cdce" />
 
-The following figures are planned for the documentation gallery and are **not yet
-committed**. Once added under `docs/figures/`, they can be embedded here:
-
-- [ ] `docs/figures/workflow.png` — end-to-end pipeline diagram
-- [ ] `docs/figures/example_feeder.png` — synthesized radial feeder
-- [ ] `docs/figures/voltage_profile.png` — voltage profile from load-flow validation
 
 ## Notes on solvers and reproducibility
 
