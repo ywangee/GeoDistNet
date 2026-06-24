@@ -3,10 +3,8 @@
 GeoDistNet is an open-source research toolbox for generating GIS-informed synthetic distribution feeders and exporting them for power-flow analysis.
 
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://www.python.org/)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-research--toolbox-orange.svg)]()
 [![GIS](https://img.shields.io/badge/GIS-OpenStreetMap-009e8d.svg)](https://www.openstreetmap.org/)
-[![Power Flow](https://img.shields.io/badge/power--flow-pandapower-009e8d.svg)](https://pandapower.readthedocs.io/)
 [![Optimization](https://img.shields.io/badge/optimization-MIP-6f42c1.svg)]()
 
 ## Overview
